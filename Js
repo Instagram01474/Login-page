@@ -1,0 +1,2 @@
+const SUPABASE_URL = "https://abcd1234.supabase.co";   // yahan apna URL
+const SUPABASE_ANON_KEY = "eyJhbGciOi...";             // yahan apna key
